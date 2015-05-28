@@ -1,0 +1,22 @@
+{
+  "name": "vote_tracker",
+  "version": "1.0.0",
+  "description": "A program to compare votes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sueonmaui/vote_tracker.git"
+  },
+  "author": "suerosenfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sueonmaui/vote_tracker/issues"
+  },
+  "homepage": "https://github.com/Sueonmaui/vote_tracker#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
