@@ -32,15 +32,5 @@ repopulate
 
 //hilight the winning photo and increase the winning photo votes by one
 
-$.ajax({
-url: “http://sueonmaui.imgur.com/3/album/ANPqy”
-headers;{
-“Authorization:: “Client_ID 9c595d058e3aa4a”
-},
-})
-.done(function(res) {
-console.log (res.data[1]);
-$(pageSetup(res.data));
-});
 
 
