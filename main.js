@@ -1,3 +1,11 @@
+//.ajax
+//.done(function(data){
+  //makeCats(data);
+  //3 f<11(function...call) {
+    //}
+  //}
+  //images
+})
 //grab the images randomly and populate the look here ARticle grid 4 side by side
 //create the array for the images
 var image = [
