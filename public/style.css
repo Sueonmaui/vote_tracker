@@ -2,19 +2,25 @@
 * {
   font-family: 'Amatic SC', cursive;
   color: #332532;
-  text-align: center;}
-  #nav, #feature, .article, #footer {
+  text-align: center;
+}
+#nav, #feature, .article, #footer {
   background-color: #A49A87;
   margin-top: 20px;
-  padding: 10px 0px 5px 0px;}
-  #feature, .article {
-  height: 200px;}
-  li {
-  display: inline;
-  padding: 5px;}
+  padding: 10px 0px 5px 0px;
+}
+#feature, .article {
+  height: 200px;
+}
+li {
+  /*display: inline;*/
+  padding: 5px;
+}
+section {
+  display: inline-flex;
+}
 
 #figure {
-  float:left;
   width:200px;
   height:200px;
   background: white;
@@ -22,12 +28,12 @@
   margin: 10px;
 }
 
-#second{
+/*#second{
   float:right;
   width:200px;
   height:200px;
   background: white;
   margin: 0px auto;;
   border:1px solid;
-}
+}*/
 
