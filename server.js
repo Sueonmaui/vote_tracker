@@ -13,7 +13,6 @@ app.all('*', function (req, res) {
   res.send('404 Error not found');
 });
 
-
 app.listen(3000, function(){
   console.log('Server is running...Im listening');
 });
